@@ -10,6 +10,9 @@ TeamTalk is a vibrant and efficient chat application homepage design that offers
 
 The design was created in Figma, a popular tool among UI/UX designers for creating interactive prototypes. However, please note that this repository does not contain any functional code. It is purely a design mockup meant to be used as a visual guide.
 
+![TeamTalk Homepage Design](https://github.com/suryanshchauhan/TeamTalk_Figma/assets/66567078/ffd42260-5a28-411f-bb97-d83997bc523a)
+
+
 ## Getting Started
 
 To view the design:
